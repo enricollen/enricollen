@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @enricollen
+- 💼 AI Engineer @ Helaglobe
 - 🎓 MSc in Artificial Intelligence & Data Engineering
 - ❤️ Open Source Lover
 - 📰 Visit my [blog](https://enricollen.github.io/) for the latest news and updates!
