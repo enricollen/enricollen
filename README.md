@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enricollen
-- 💼 AI Engineer @ ExtraRed
+- 💼 AI Engineer @ ExtraRed (Engineering spa)
 - 🎓 MSc in Artificial Intelligence & Data Engineering
 - ❤️ Open Source Lover
 - 📰 Visit my [blog](https://enricollen.github.io/) for the latest news and updates!
